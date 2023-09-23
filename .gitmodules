@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "NlsyLinks"]
+	path = NlsyLinks
+	url = https://github.com/nlsy-links/nlsylinks
